@@ -1,0 +1,10 @@
+html {
+  background-image: url(images/hatcat.gif);
+}
+nav {
+  display: inline-block;
+  text-align: center;
+  border: 2px solid #00ffd3;
+  background-color: #b1fa00;
+  color: #01148f;
+}
